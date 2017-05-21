@@ -1,0 +1,22 @@
+﻿{  
+"name": "Sıfır Wikipedia",
+"icons": {
+    "16":  "icon.png",  
+    "48":  "icon.png",  
+    "128":  "icon.png"
+  },  
+"version": "1.0",  
+"manifest_version": 2,  
+"description": "Wikipedia bağlantılarını otomatik olarak açılabilir duruma getirmektedir.",
+"browser_action": 
+	{  
+	"default_icon" : "icon.png",  
+	"default_popup" : "panel.html"
+	},
+"background" : { "scripts" : ["background.js"] },	
+"permissions": [
+    "activeTab",
+    "tabs",
+	"history"
+   ]
+}
