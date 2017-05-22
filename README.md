@@ -9,4 +9,4 @@ Eğer wikipedia.com engellenmiş ise büyük ihtimalle 0wikipedia.com adresi eri
 
  - Chrome'u açın ve Menü > Araçlar > Uzantılar seçeneğine gidin.
  - Geliştirici modu > Paketlenmemiş uzantıları yükle... seçeneğini tıklayın.
- - Göz atın ve manifest.json dosyanızın ve logonuzun bulunduğu klasörü seçin.
+ - Göz atın ve src klasörünü seçin.
