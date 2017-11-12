@@ -5,9 +5,9 @@ Eğer wikipedia.com engellenmiş ise büyük ihtimalle 0wikipedia.com adresi eri
 ![Wikipedia Zero Ekran Görüntüsü](https://media.giphy.com/media/3o7bufrz5wHumRsHYs/giphy.gif)
 
 
-###Paketlenmemiş Chrome/Opera Eklentisi Kurulumu
+### Paketlenmemiş Chrome/Opera Eklentisi Kurulumu
 
--Opera'yı / Chrome'u açın ve adres çubuğuna chrome://extensions yazın.
--Açılan sayfada geliştirici modu kutucuğunu işaretleyin
--Paketlenmemiş uzantıları yükle... seçeneğini tıklayın.
--İndirmiş olduğunuz src klasörünü seçin.
+- Opera'yı / Chrome'u açın ve adres çubuğuna chrome://extensions yazın.
+- Açılan sayfada geliştirici modu kutucuğunu işaretleyin
+- Paketlenmemiş uzantıları yükle... seçeneğini tıklayın.
+- İndirmiş olduğunuz src klasörünü seçin.
