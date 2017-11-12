@@ -8,15 +8,3 @@ chrome.tabs.onUpdated.addListener(function(tabId, changeInfo, tab) {
     return;
   }
 });
-
-// mesut=document.getElementById("mesut");
-// mesut.onclick=openInNewTab(0);
-// ramazan=document.getElementById("ramazan");
-// ramazan.onclick=openInNewTab(1);
-
-// function openInNewTab(id) {
-//   links[2]={"http://www.mesutpiskin.com","https://github.com/RamazanM"};
-//   alert();
-//   var win = window.open(links[id], '_blank');
-//   win.focus();
-// }

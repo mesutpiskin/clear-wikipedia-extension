@@ -1,28 +1,44 @@
 <html>
 <head>
-<script src="background.js"></script>
-
-</script>
+  <script defer src="background.js"></script>
+  <script defer src="linkler.js"></script>
 </head>
 <style media="screen">
-img{
-  width: 100px;
-  height: auto;
+body{
+  width: 110px;
+  background: #282828;
+}
+  img {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+    transition-duration: .3s;
   }
-  a{
-    color: black;
+  img:hover{
+    width: 95%;
+  }
+
+  span {
+    width: 100%;
+    color: white;
     font-size: 12pt;
     text-decoration: underline;
     text-align: center;
+    cursor: pointer;
     transition-duration: .3s;
   }
-  a:hover{
+
+  span:hover {
     font-size: 14pt;
   }
 </style>
+
 <body>
-<!-- <a href="tr.0wikipedia.com"><img id="p-logo" src="icon.png"></a>
-</img>
-<h5 id="mesut" align="center">mesutpiskin</h5>
-<a id="ramazan" align="center">ramazanm</a>
-</html> -->
+  <center>
+  <img id="p-logo" src="icon.png"></img>
+  <span id="mesut" align="center">mesutpiskin</span><br>
+  <span id="ramazan" align="center">ramazanm</span>
+</center>
+</body>
+
+</html>
