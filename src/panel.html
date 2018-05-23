@@ -1,9 +1,44 @@
 <html>
 <head>
-<script src="background.js"></script>
+  <script defer src="background.js"></script>
+  <script defer src="linkler.js"></script>
 </head>
+<style media="screen">
+body{
+  width: 110px;
+  background: #282828;
+}
+  img {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+    transition-duration: .3s;
+  }
+  img:hover{
+    width: 95%;
+  }
+
+  span {
+    width: 100%;
+    color: white;
+    font-size: 12pt;
+    text-decoration: underline;
+    text-align: center;
+    cursor: pointer;
+    transition-duration: .3s;
+  }
+
+  span:hover {
+    font-size: 14pt;
+  }
+</style>
+
 <body>
-<img id="p-logo" src="https://tr.0wikipedia.org/index.php?q=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ftr%2Fb%2Fbc%2FWiki.png">
-</img>
-<h5 align="center">mesutpiskin.com</h5>
+  <center>
+  <img id="p-logo" src="icon.png"></img>
+  <span id="mesut" align="center">mesutpiskin</span><br>
+  <span id="ramazan" align="center">ramazanm</span>
+</center>
+</body>
+
 </html>
