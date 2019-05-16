@@ -1,13 +1,19 @@
+<div align="center">
 
-  [![Build Status](https://travis-ci.com/mesutpiskin/wikipediaZeroExtension.svg?branch=master)](https://travis-ci.com/mesutpiskin/wikipediaZeroExtension)
+<img width="100" src="./src/icon.png"/>
+
+<h1 align="center">Clear Wikipedia Tarayıcı Eklentisi</h1>
+
+[![Build Status](https://travis-ci.com/mesutpiskin/wikipediaZeroExtension.svg?branch=master)](https://travis-ci.com/mesutpiskin/wikipediaZeroExtension)
 
 
-# WikipediaZero Google Chrome Eklentisi
-
-Eğer wikipedia.com engellenmiş ise büyük ihtimalle 0wikipedia.com adresi erişime açıktır. Google arama sonuçlarında 0wikipedia adresi için pek fazla sonuç göremezsiniz bu durumda her adresi elle düzenlemeniz gerekecektir. Bu eklenti sayesinde arama sonuçlarında çıkan adresler  0wikipedia alan adına yönlendirmek suretiyle erişilebilir durumda olacaktır. 
 
 ![Wikipedia Zero Ekran Görüntüsü](https://media.giphy.com/media/3o7bufrz5wHumRsHYs/giphy.gif)
 
+
+</div>
+
+Bu tarayıcı eklentisi wikipedia internet adreslerini otomatik olarak 0wikipedia adresine yönlendirmektedir. Bu sayede engellenmiş wikipedia adreslerine erişim sağlayabilirsiniz.
 
 ### Paketlenmemiş Chrome/Opera Eklentisi Kurulumu
 
@@ -15,3 +21,4 @@ Eğer wikipedia.com engellenmiş ise büyük ihtimalle 0wikipedia.com adresi eri
 - Açılan sayfada geliştirici modu kutucuğunu işaretleyin
 - Paketlenmemiş uzantıları yükle... seçeneğini tıklayın.
 - İndirmiş olduğunuz src klasörünü seçin.
+

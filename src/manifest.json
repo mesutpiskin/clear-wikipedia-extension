@@ -1,11 +1,11 @@
 ﻿{  
-"name": "Sıfır Wikipedia",
+"name": "Clear Wikipedia",
 "icons": {
     "16":  "icon.png",  
     "48":  "icon.png",  
     "128":  "icon.png"
   },  
-"version": "1.0",  
+"version": "1.2",  
 "manifest_version": 2,  
 "description": "Wikipedia bağlantılarını otomatik olarak açılabilir duruma getirmektedir.",
 "browser_action": 
